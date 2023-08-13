@@ -1,5 +1,0 @@
-{{#user}
-Name: Dharmendra
-Skills: HTML, CSS, JS, Next.js
-Email: dharmendra44689@gmail.com
-{{/user}}
